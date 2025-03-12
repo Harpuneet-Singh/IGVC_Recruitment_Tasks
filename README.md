@@ -1,5 +1,5 @@
 # IGVC_Recruitment_Tasks
-IGVC Recruitment Tasks
+
 # Introduction
 
 **March 12, 2025**  
